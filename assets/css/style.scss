@@ -8,17 +8,28 @@ body {
 
 }
 
+/* Data Scientist (h1) */
 h1 {
-  color: #f70776;
+  color: #f70776; 
   font-family: 'Helvetica', sans-serif;
+  font-weight: bold; /* Make title bold */
 }
 
+/* Education (h2) */
 h2 {
   color: #f5b553;
   font-family: 'Helvetica', sans-serif;
+  font-weight: bold; /* Make title bold */
 }
 
+/* Work Experience & Projects (h3) */
 h3 {
   color: #6db193;
   font-family: 'Helvetica', sans-serif;
+  font-weight: bold; /* Make title bold */
+}
+
+/* Style for bold text in paragraphs */
+strong, b {
+  font-weight: bold;
 }
