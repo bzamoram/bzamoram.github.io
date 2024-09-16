@@ -1,12 +1,27 @@
-# Data Scientist 
+# Data Scientist Portfolio
 
-## Education
-Data Science, BA
+## Predicting Casualties in Traffic Crashes, NYC
+### Logistic Regression, Naive Bayes, & K Nearest Neighbor
 
-### Work Experience
-Climate Data @ Sustainability Office, Concordia College
-  - bullet point I
-  - bullet point II
+The primary objective of this project is to leverage the principles of data mining to construct a model aimed at predicting whether a traffic incident in New York City will lead to casualties.
 
-### Projects
-New York Crushes
+Here goes the link to GitHub
+
+Paragraph for project info
+
+Paragraph for project info
+
+Images for the projects
+
+## Second Project
+### Specific methods used
+
+Here goes the brief description
+
+Here goes the link to GitHub
+
+Paragraph for project info
+
+Paragraph for project info
+
+Images for the projects
