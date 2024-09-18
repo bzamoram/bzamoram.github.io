@@ -1,14 +1,14 @@
 title: Bryan Zamora
 logo: assets/img/headshot.jpg
 description: |
-  <p>Welcome to my data science portfolio!
+  Welcome to my data science portfolio!
   I am a senior college student, passionate about using data 
-  to solve real-world challenges.</p>
+  to solve real-world challenges.</p></p>
   
- <p>Go ahead and explore my projects in data analysis, machine 
+ Go ahead and explore my projects in data analysis, machine 
   learning, climate data science, and GIS. 
   This is my safe space to showcase the skills I’m ready to 
-  bring to a data science internship.</p>
+  bring to a data science internship.
 show_downloads: false
 theme: jekyll-theme-minimal
 
