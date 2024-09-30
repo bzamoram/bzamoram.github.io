@@ -11,6 +11,33 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+
+      <style>
+      body {
+          font-family: Arial, sans-serif;
+          text-align: center;
+      }
+      .profile-img {
+          width: 150px;
+          border-radius: 50%;
+          margin: 20px 0;
+      }
+      .button-container {
+          margin: 20px 0;
+      }
+      .button-container a {
+          margin: 0 10px;
+          text-decoration: none;
+          color: white;
+          background-color: #007bff;
+          padding: 10px 15px;
+          border-radius: 5px;
+          font-weight: bold;
+      }
+      .button-container a:hover {
+          background-color: #0056b3;
+      }
+    </style>    
   </head>
   <body>
     <div class="wrapper">
@@ -26,8 +53,8 @@
          <!-- Add buttons for Resume, LinkedIn, and GitHub -->
         <div class="button-container">
           <a href="path/to/resume.pdf" class="btn" target="_blank">Resume</a>
-          <a href="https://www.linkedin.com/in/yourprofile" class="btn" target="_blank">LinkedIn</a>
-          <a href="https://github.com/yourusername" class="btn" target="_blank">GitHub</a>
+          <a href="http://www.linkedin.com/in/bzamoram" class="btn" target="_blank">LinkedIn</a>
+          <a href="https://github.com/bzamoram" class="btn" target="_blank">GitHub</a>
         </div>
 
         {% if site.github.is_project_page %}
