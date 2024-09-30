@@ -27,11 +27,11 @@ h3 {
 
 /* Profile Image Styling */
 .profile-img {
-    width: 150px;
+    width: 100px;
     height: 150px;
     border-radius: 50%;
     margin: 20px auto;
-    display: block;
+    display: inline-block;
 }
 
 /* Button Container Styling */
