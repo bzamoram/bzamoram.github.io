@@ -1,0 +1,29 @@
+/* Custom styles */
+body {
+}
+
+/* Data Scientist Portfolio(h1) */
+h1 {
+  color: #2a2438; 
+  font-family: 'Helvetica', sans-serif;
+  font-weight: bold; /* Make title bold */
+}
+
+/* Projects Names (h2) */
+h2 {
+  color: #2a2438;
+  font-family: 'Helvetica', sans-serif;
+  font-weight: bold; /* Make title bold */
+}
+
+/* Methods Used (h3) */
+h3 {
+  color: #2a2438;
+  font-family: 'Helvetica', sans-serif;
+  font-weight: bold; /* Make title bold */
+}
+
+/* Style for bold text in paragraphs */
+strong, b {
+  font-weight: bold;
+}
