@@ -51,15 +51,15 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         <!-- Add the headshot with a circle shape -->
-       <img src="{{ site.baseurl }}/assets/img/headshot.jpg" alt="Headshot" class="profile-img">
+      <img src="{{ '/assets/img/headshot.jpg' | relative_url }}" alt="Headshot" class="profile-img">
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <!-- Add buttons for Resume, LinkedIn, and GitHub -->
         <div class="button-container">
-          <a href="path/to/resume.pdf" class="btn" target="_blank">Resume</a>
-          <a href="https://www.linkedin.com/in/bzamoram" class="btn" target="_blank">LinkedIn</a>
-          <a href="https://github.com/bzamoram" class="btn" target="_blank">GitHub</a>
+          <a href="path/to/resume.pdf" target="_blank">Resume</a>
+          <a href="https://www.linkedin.com/in/bzamoram" target="_blank">LinkedIn</a>
+          <a href="https://github.com/bzamoram" target="_blank">GitHub</a>
         </div>
 
         {% if site.github.is_project_page %}
