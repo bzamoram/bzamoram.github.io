@@ -5,23 +5,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-
-      <style>
+    
+    <style>
       body {
           font-family: Arial, sans-serif;
           text-align: center;
       }
+      /* Profile Image Styling */
       .profile-img {
           width: 150px;
+          height: 150px;
           border-radius: 50%;
-          margin: 20px 0;
+          margin: 20px auto;
+          display: block;
       }
+      /* Button Container Styling */
       .button-container {
           margin: 20px 0;
       }
@@ -33,27 +37,28 @@
           padding: 10px 15px;
           border-radius: 5px;
           font-weight: bold;
+          display: inline-block;
       }
       .button-container a:hover {
           background-color: #0056b3;
       }
-    </style>    
+    </style>
+
   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <!-- Add the headshot with a circle shape -->
+        <img src="assets/img/headshot.jpg" alt="Headshot" class="profile-img">
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-         <!-- Add buttons for Resume, LinkedIn, and GitHub -->
+        <!-- Add buttons for Resume, LinkedIn, and GitHub -->
         <div class="button-container">
           <a href="path/to/resume.pdf" class="btn" target="_blank">Resume</a>
-          <a href="http://www.linkedin.com/in/bzamoram" class="btn" target="_blank">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/bzamoram" class="btn" target="_blank">LinkedIn</a>
           <a href="https://github.com/bzamoram" class="btn" target="_blank">GitHub</a>
         </div>
 
@@ -88,3 +93,4 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
+
