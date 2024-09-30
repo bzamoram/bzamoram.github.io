@@ -6,44 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
-   <link rel="stylesheet" href="assets/css/style.css"> | append: site.github.build_revision | relative_url }}">
+  <head>
+  <link rel="stylesheet" href="{{ "/assets/css/stylesheet.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
     
-    <style>
-      body {
-          font-family: Arial, sans-serif;
-          text-align: center;
-      }
-      /* Profile Image Styling */
-      .profile-img {
-          width: 150px;
-          height: 150px;
-          border-radius: 50%;
-          margin: 20px auto;
-          display: block;
-      }
-      /* Button Container Styling */
-      .button-container {
-          margin: 20px 0;
-      }
-      .button-container a {
-          margin: 0 10px;
-          text-decoration: none;
-          color: white;
-          background-color: #007bff;
-          padding: 10px 15px;
-          border-radius: 5px;
-          font-weight: bold;
-          display: inline-block;
-      }
-      .button-container a:hover {
-          background-color: #0056b3;
-      }
-    </style>
-
   </head>
   <body>
     <div class="wrapper">
