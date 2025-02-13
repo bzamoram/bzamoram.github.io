@@ -14,7 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   I am currently a Digital Innovation Intern at Doosan Bobcat North America.
   <br><br>
-  
+  </p>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
