@@ -1,6 +1,6 @@
 # Portfolio
 ---
-### Assessing Oil / Gas Wells in North Dakota, US
+### Assessing Oil/Gas Wells in North Dakota, US
 
 <iframe src="https://arcg.is/0XLrWr1" width="100%" height="500px" frameborder="0" allow="geolocation"></iframe>
 
