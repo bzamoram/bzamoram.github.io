@@ -14,7 +14,7 @@
         style="border:none; max-width: 800px; display: block; margin: auto;">
 </iframe>-->
 
-<iframe src="https://arcg.is/0XLrWr1" width="100%" height="600px" style="border:none allow="geolocation";"></iframe>
+<iframe src="https://arcg.is/0XLrWr1" width="150%" height="600px" style="border:none allow="geolocation";"></iframe>
 
 ### NYC Crashes
 
