@@ -2,11 +2,11 @@
 ---
 ### Assessing Oil / Gas Wells in North Dakota, US
 
-<iframe src="https://storymaps.arcgis.com/stories/06b3f7232dcf4c4e886b163c520a9836" 
+<!--<iframe src="https://storymaps.arcgis.com/stories/06b3f7232dcf4c4e886b163c520a9836" 
         width="110%" 
         height="500px" 
         frameborder="0" 
-        allow="geolocation"></iframe>
+        allow="geolocation"></iframe>-->
 
 <!--<iframe src="https://storymaps.arcgis.com/stories/06b3f7232dcf4c4e886b163c520a9836" 
         width="80%" 
@@ -14,7 +14,7 @@
         style="border:none; max-width: 800px; display: block; margin: auto;">-->
 </iframe>
 
-<!--<iframe src="https://arcg.is/0XLrWr1" width="150%" height="600px" style="border:none;"></iframe>-->
+<iframe src="https://arcg.is/0XLrWr1" width="150%" height="600px" style="border:none allow="geolocation";"></iframe>
 
 ### NYC Crashes
 
