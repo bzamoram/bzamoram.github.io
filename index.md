@@ -2,7 +2,7 @@
 ---
 ### Assessing Oil / Gas Wells in North Dakota, US
 
-<iframe src="https://arcg.is/0XLrWr1" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="https://arcg.is/0XLrWr1" width="150%" height="600px" style="border:none;"></iframe>
 
 ### NYC Crashes
 
