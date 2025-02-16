@@ -3,7 +3,7 @@
 ### Assessing Oil / Gas Wells in North Dakota, US
 
 <iframe src="https://storymaps.arcgis.com/stories/06b3f7232dcf4c4e886b163c520a9836" 
-        width="80%" 
+        width="110%" 
         height="500px" 
         frameborder="0" 
         allow="geolocation"></iframe>
