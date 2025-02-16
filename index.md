@@ -4,7 +4,6 @@
 
 ### NYC Crashes
 
-[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
@@ -19,7 +18,6 @@
 ---
 ### FM Housing
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
@@ -33,7 +31,6 @@
 ---
 ### Brazil's Water Usage
 
-[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
@@ -53,14 +50,6 @@
 <br>
 <center><img src="images/bac2018.JPG"/></center>
 <br>
-
----
-maybe useful for references
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 <center>© 2025 Bryan Zamora. Powered by Jekyll and the Minimal Theme.</center>
