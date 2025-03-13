@@ -4,8 +4,6 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-http://127.0.0.1:7705/
-
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/Fargo_Moorhead_Housing_Pricing)
 
 <div style="text-align: justify">I performed a comprehensive Fargo-Moorhead Housing Pricing Tool using real state data.</div>
