@@ -2,7 +2,7 @@
 ---
 ### Fargo-Moorhead Housing Pricing 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/housing.png?raw=true"/>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/Fargo_Moorhead_Housing_Pricing)
 
