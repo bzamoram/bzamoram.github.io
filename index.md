@@ -15,7 +15,7 @@
 
 ### Predicting Casualties in Traffic Crashes of New York City 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/nyc.png?raw=true"/>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/NYC_Traffic_Crashes_Casualties)
 
