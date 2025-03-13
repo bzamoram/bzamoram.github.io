@@ -25,7 +25,7 @@
 
 ### Assessing Oil/Gas Wells in North Dakota, US
 
-<iframe src="https://arcg.is/0XLrWr1" width="100%" height="500px" frameborder="0" allow="geolocation"></iframe>
+<iframe src="https://arcg.is/0XLrWr1" width="100%" height="500px" frameborder="0" allow="geolocation"></iframe> 
 
 ---
 <center>© 2025 Bryan Zamora. Powered by Jekyll and the Minimal Theme.</center>
