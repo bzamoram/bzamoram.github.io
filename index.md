@@ -18,6 +18,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/NYC_Traffic_Crashes_Casualties)
 
 <div style="text-align: justify">After my team preprocessed a dataset of 100K car crashes in NYC, there were some interesting findings.</div>
+<br>
 
 ---
 
