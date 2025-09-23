@@ -1,5 +1,16 @@
 # Portfolio
 ---
+### Titile of Project
+
+<img src="images/ETL-workflow.png?raw=true"/>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/Harry-Potter-API-Testing)
+
+<div style="text-align: justify">I performed a comprehensive Fargo-Moorhead Housing Pricing Tool using real state data.</div>
+<br>
+
+---
+
 ### Fargo-Moorhead Housing Pricing 
 
 <img src="images/housing.png?raw=true"/>
