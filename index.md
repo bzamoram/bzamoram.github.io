@@ -8,10 +8,9 @@
 <div style="text-align: justify">I explored ETL processes with this Harry Potter-themed project. Using the public Harry Potter API, I dove into the steps of Extract-Transform-Load (ETL) to turn raw API data into meaningful information stored in a MySQL database.</div>
 <br>
 
-<div style="text-align: justify">API Integration: Leveraging the public Harry Potter API to extract data about spells directly from the wizarding world.</div>
-<div style="text-align: justify">Data Transformation: Cleaning and organizing the data to focus on spells that start with the letter "A" 🪄. The data was sorted alphabetically (Z to A) and refined for clarity, retaining only spell names and descriptions.</div>
-<div style="text-align: justify">Database Loading: The processed data was loaded into a MySQL local database as a structured table for future use. Additionally, a CSV file was generated for easy sharing and visualization.</div>
-<br>
+[![API Integration](https://img.shields.io/badge/API%20Integration-E33817)]()
+[![Data Transformation](https://img.shields.io/badge/Data%20Transformation-4575BA)]()
+[![Database Loading](https://img.shields.io/badge/Database%20Loading-41BA53)]()
 
 ---
 
