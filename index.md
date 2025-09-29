@@ -1,5 +1,20 @@
 # Portfolio
+
+## Table of Contents
+
+* [Data Projects](#data-projects)
+  * [Harry Potter (API) ETL Project](#harry-potter-api-etl-project)
+  * [Fargo-Moorhead Housing Pricing](#fargo-moorhead-housing-pricing)
+  * [Predicting Casualties in Traffic Crashes of New York City](#predicting-casualties-in-traffic-crashes-of-new-york-city)
+* [GIS Projects](#assessing-oilgas-wells-in-north-dakota-us)
+  * [Assessing Oil/Gas Wells in ND, USA](#assessing-oilgas-wells-in-north-dakota-us)
+* [Certifications](#certifications)
+  * [SAFE](#ready-for-safe)
+  * [AWS QuickSight](#aws-quicksight)
+  * [APIs](#intro-to-web-apis)
+
 ---
+## Data Projects
 ### Harry Potter (API) ETL Project
 
 <img src="images/ETL-workflow.png?raw=true"/>
@@ -36,10 +51,57 @@
 
 ---
 
+## GIS Projects
 ### Assessing Oil/Gas Wells in North Dakota, US
 
 <iframe src="https://arcg.is/0XLrWr1" width="100%" height="500px" frameborder="0" allow="geolocation"></iframe> 
 
 ---
+
+## Certifications
+### Ready for SAFE®
+
+<img src="images/ready-for-safe.png?raw=true"/>
+
+<div style="text-align: justify">Issued by SAFe by Scaled Agile, Inc on August 13, 2025.</div>
+<div style="text-align: justify">SAFe Jumpstart is an online learning series designed to educate learners on the foundations of Lean, Agile, and SAFe® while introducing the look and feel of working on an Agile Release Train (ART) and Agile Team.</div>
+<br>
+
+[![SAFE®](https://img.shields.io/badge/SAFE®-E33817)]()
+[![SAFE® Basics](https://img.shields.io/badge/SAFE®%20Basics-4575BA)]()
+[![SAFE® Terms](https://img.shields.io/badge/SAFE®%20Terms-E33817)]()
+[![Scaled Agile Framework®](https://img.shields.io/badge/Scaled%20Agile%20Framework®-41BA53)]()
+
+---
+
+### AWS QuickSight Basics
+
+<img src="images/quicksight-aws.png?raw=true"/>
+
+<div style="text-align: justify">Taking the LinkedIn course "Learning Amazon Web Services (AWS) QuickSight" provided me with essential expertise in leveraging AWS QuickSight for data analytics and visualization, enabling me to connect to diverse data sources, transform and analyze data, and effectively create and share dashboards and reports with stakeholders.</div>
+<br>
+
+[![Data Connections](https://img.shields.io/badge/Data%20Connections-E33817)]()
+[![Data Transformations](https://img.shields.io/badge/Data%20Transformations-4575BA)]()
+[![Visualization Creation](https://img.shields.io/badge/Visualization%20Creation-E33817)]()
+[![Report Sharing](https://img.shields.io/badge/Report%20Sharing-41BA53)]()
+
+---
+
+### Intro to Web APIs
+
+<img src="images/web-apis-intro.png?raw=true"/>
+
+<div style="text-align: justify">Taking the LinkedIn course "Introduction to Web APIs" gave me a foundational understanding of APIs, it also taught me how to effectively connect to APIs, navigate their documentation, parse data using JSON, and interact with APIs securely and efficiently.</div>
+<br>
+
+[![HTTP Method Proficiency](https://img.shields.io/badge/HTTP%20Method%20Proficiency-E33817)]()
+[![API Troubleshooting](https://img.shields.io/badge/API%20Troubleshooting-4575BA)]()
+[![API Security](https://img.shields.io/badge/API%20Security-E33817)]()
+
+---
 <center>© 2025 Bryan Zamora. Powered by Jekyll and the Minimal Theme.</center>
 <p style="font-size:11px">
+
+
+
