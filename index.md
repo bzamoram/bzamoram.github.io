@@ -9,9 +9,9 @@
 * [GIS Projects](#assessing-oilgas-wells-in-north-dakota-us)
   * [Assessing Oil/Gas Wells in ND, USA](#assessing-oilgas-wells-in-north-dakota-us)
 * [Certifications](#certifications)
-  * [SAFE](#ready-for-safe)
-  * [AWS QuickSight](#aws-quicksight)
-  * [APIs](#intro-to-web-apis)
+  * [Ready for SAFE®](#ready-for-safe)
+  * [AWS QuickSight Basics](#aws-quicksight-basics)
+  * [Intro to Web APIs](#intro-to-web-apis)
 
 ---
 ## Data Projects
@@ -67,10 +67,10 @@
 <div style="text-align: justify">SAFe Jumpstart is an online learning series designed to educate learners on the foundations of Lean, Agile, and SAFe® while introducing the look and feel of working on an Agile Release Train (ART) and Agile Team.</div>
 <br>
 
-[![SAFE®](https://img.shields.io/badge/SAFE®-E33817)]()
-[![SAFE® Basics](https://img.shields.io/badge/SAFE®%20Basics-4575BA)]()
-[![SAFE® Terms](https://img.shields.io/badge/SAFE®%20Terms-E33817)]()
-[![Scaled Agile Framework®](https://img.shields.io/badge/Scaled%20Agile%20Framework®-41BA53)]()
+[![SAFE®](https://img.shields.io/badge/SAFE®-96EAF2)]()
+[![SAFE® Basics](https://img.shields.io/badge/SAFE®%20Basics-1B7987)]()
+[![SAFE® Terms](https://img.shields.io/badge/SAFE®%20Terms-F3EAC3)]()
+[![Scaled Agile Framework®](https://img.shields.io/badge/Scaled%20Agile%20Framework®-317BE8)]()
 
 ---
 
@@ -81,10 +81,10 @@
 <div style="text-align: justify">Taking the LinkedIn course "Learning Amazon Web Services (AWS) QuickSight" provided me with essential expertise in leveraging AWS QuickSight for data analytics and visualization, enabling me to connect to diverse data sources, transform and analyze data, and effectively create and share dashboards and reports with stakeholders.</div>
 <br>
 
-[![Data Connections](https://img.shields.io/badge/Data%20Connections-E33817)]()
-[![Data Transformations](https://img.shields.io/badge/Data%20Transformations-4575BA)]()
-[![Visualization Creation](https://img.shields.io/badge/Visualization%20Creation-E33817)]()
-[![Report Sharing](https://img.shields.io/badge/Report%20Sharing-41BA53)]()
+[![Data Connections](https://img.shields.io/badge/Data%20Connections-5ED93F)]()
+[![Data Transformations](https://img.shields.io/badge/Data%20Transformations-B05CFA)]()
+[![Visualization Creation](https://img.shields.io/badge/Visualization%20Creation-E8862E)]()
+[![Report Sharing](https://img.shields.io/badge/Report%20Sharing-5CB6FA)]()
 
 ---
 
@@ -96,8 +96,8 @@
 <br>
 
 [![HTTP Method Proficiency](https://img.shields.io/badge/HTTP%20Method%20Proficiency-E33817)]()
-[![API Troubleshooting](https://img.shields.io/badge/API%20Troubleshooting-4575BA)]()
-[![API Security](https://img.shields.io/badge/API%20Security-E33817)]()
+[![API Troubleshooting](https://img.shields.io/badge/API%20Troubleshooting-5ED93F)]()
+[![API Security](https://img.shields.io/badge/API%20Security-2EE8BA)]()
 
 ---
 <center>© 2025 Bryan Zamora. Powered by Jekyll and the Minimal Theme.</center>
