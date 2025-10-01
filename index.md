@@ -3,12 +3,12 @@
 
 
 <div style="text-align: justify">Hi,</div><br>
-<div style="text-align: justify">Welcome to my portfolio! This page highlights my journey through college **projects** and **personal endeavors**. You'll also find **certifications** I've earned, along with insights into the skills and knowledge they represent. Thanks for visiting!</div><br>
+<div style="text-align: justify">Welcome to my portfolio! This page highlights my journey through <strong>college projects</strong> and <strong>personal endeavors</strong>. You'll also find <strong>certifications</strong> I've earned, along with insights into the skills and knowledge they represent. Thanks for visiting!</div><br>
 
 <div style="text-align: justify">Got any question, want to connect? Reach out by:</div><br>
 
 * Linkedln: <a href="https://www.linkedin.com/in/bzamoram/">Bryan Zamora Montero</a> 
-* Email: <a href="bzamoramontero35@gmail.com">bzamoramontero35@gmail.com</a>
+* Email: <bzamoramontero35@gmail.com>
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@
 <img src="images/ETL-workflow.png?raw=true"/>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/Harry-Potter-API-Exploration)
-<div style="text-align: justify">I explored **ETL processes** with this Harry Potter-themed project. Using the public Harry Potter API, I dove into the steps of Extract-Transform-Load (ETL) to turn raw API data into meaningful information stored in a MySQL database.</div>
+<div style="text-align: justify">I explored <strong>ETL processes</strong> with this Harry Potter-themed project. Using the public Harry Potter API, I dove into the steps of Extract-Transform-Load (ETL) to turn raw API data into meaningful information stored in a MySQL database.</div>
 <br>
 
 [![API Integration](https://img.shields.io/badge/API%20Integration-E33817)]()
