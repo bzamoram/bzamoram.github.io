@@ -5,7 +5,7 @@
 <div style="text-align: justify">Hi,</div><br>
 <div style="text-align: justify">Welcome to my portfolio! This page highlights my journey through <strong>college projects</strong> and <strong>personal endeavors</strong>. You'll also find <strong>certifications</strong> I've earned, along with insights into the skills and knowledge they represent. Thanks for visiting!</div><br>
 
-<div style="text-align: justify">Got any question, want to connect? Reach out by:</div><br>
+<div style="text-align: justify">Got any question, want to connect? Reach out by:</div>
 
 * Linkedln: <a href="https://www.linkedin.com/in/bzamoram/">Bryan Zamora Montero</a> 
 * Email: <bzamoramontero35@gmail.com>
