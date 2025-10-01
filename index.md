@@ -2,9 +2,9 @@
 # <center> Welcome to my Portfolio </center>
 
 
-<div style="text-align: justify">Hi,</div><br>
-
-<div style="text-align: justify">Welcome to my portfolio! This page highlights my journey through college projects and personal endeavors. You'll also find certifications I've earned, along with insights into the skills and knowledge they represent. Thanks for visiting!</div><br>
+<div style="text-align: justify">Hi,
+<br>
+Welcome to my portfolio! This page highlights my journey through college projects and personal endeavors. You'll also find certifications I've earned, along with insights into the skills and knowledge they represent. Thanks for visiting!</div><br>
 
 <div style="text-align: justify">Got any question, want to connect? Reach out by:</div>
 <br>
