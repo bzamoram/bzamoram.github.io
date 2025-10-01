@@ -1,4 +1,14 @@
-# Portfolio
+# <center> Welcome to my Portfolio </center>
+
+<div style="text-align: justify">Hi,<br> 
+Welcome to my portfolio! This page highlights my journey through college projects and personal endeavors. You'll also find certifications I've earned, along with insights into the skills and knowledge they represent. Thanks for visiting!</div>
+<br>
+
+<div style="text-align: justify">Got any question, want to connect? Reach out by:</div>
+<br>
+
+* Linkedln: <a href="https://www.linkedin.com/in/bzamoram/">Bryan Zamora Montero</a> 
+* Email: <a href="bzamoramontero35@gmail.com">bzamoramontero35@gmail.com</a>
 
 ## Table of Contents
 
