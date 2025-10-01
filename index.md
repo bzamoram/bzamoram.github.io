@@ -3,7 +3,7 @@
 
 
 <div style="text-align: justify">Hi,</div><br>
-<div style="text-align: justify">Welcome to my portfolio! This page highlights my journey through <strong>college projects</strong> and <strong>personal endeavors</strong>. You'll also find <strong>certifications</strong> I've earned, along with insights into the skills and knowledge they represent. Thanks for visiting!</div><br>
+<div style="text-align: justify">Welcome to my <strong>portfolio!</strong>. As the first in my family to attend college, I am determined to build a dynamic and impactful career. My interest in data began with a natural tendency to seek insights and make informed decisions through previous information, but it truly came alive when I started taking data courses at Concordia College. Discovering the power of cloud computing has opened exciting new directions for exploring and working with data, and I am eager to dive deeper into this innovative field. This page highlights my growth through <strong>college projects</strong> and <strong>personal initiatives</strong>. You’ll also find <strong>certifications</strong> I’ve earned, along with insights into the skills and knowledge behind each achievement. Thanks for visiting!</div><br>
 
 <div style="text-align: justify">Got any question, want to connect? Reach out by:</div>
 
