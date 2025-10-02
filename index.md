@@ -14,10 +14,10 @@
 </div>
 
 <div style="margin-top:10px"></div>
-
+<a id="contact"></a>
 <div style="text-align: justify">Hi,</div><br>
 <div style="text-align: justify">Welcome to my <strong>portfolio!</strong> As the first in my family to attend college, I am determined to build a dynamic and impactful career. Driven by curiosity, I have always seen data as a powerful tool for turning questions into actionable insights but it was not until college that I started to get more formal education on it. Pairing my interest in data with cloud computing has opened exciting new directions for exploring and working with data, and I am eager to dive deeper into this innovative field. This page highlights my growth through <strong>college projects</strong> and <strong>personal initiatives</strong>. You’ll also find <strong>certifications</strong> I’ve earned, along with insights into the skills and knowledge behind each achievement. Thanks for visiting!</div><br>
-<a id="contact"></a>
+
 <div style="text-align: justify">Got any question, want to connect? Reach out by:</div>
 
 * Linkedln: <a href="https://www.linkedin.com/in/bzamoram/">Bryan Zamora Montero</a> 
