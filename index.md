@@ -6,10 +6,10 @@
 <div class="sticky-header">
   <p align="center"><strong></strong></p>
   <div align="center">
-    <a href= #data-projects>Data Projects</a> |
-    <a href=#gis-projects>GIS Projects</a> |
-    <a href=#certifications>Certifications</a> |
-    <a href=#contact>Contact</a>
+    <a href="#data-projects">Data Projects</a> |
+    <a href="#gis-projects">GIS Projects</a> |
+    <a href="#certifications">Certifications</a> |
+    <a href="#contact">Contact</a>
   </div>
 </div>
 
