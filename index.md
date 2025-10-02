@@ -6,19 +6,24 @@
 <div class="sticky-header">
   <p align="center"><strong></strong></p>
   <div align="center">
-    <a href="pdf/">Resume</a> |
-    <a href="https://www.linkedin.com/in/bzamoram/">LinkedIn</a> |
-    <a href="https://github.com/bzamoram">GitHub</a>
+    <a href= #data-projects>Data Projects</a> |
+    <a href=#gis-projects>GIS Projects</a> |
+    <a href=#certifications>Certifications</a> |
+    <a href=#contact>Contact</a>
   </div>
 </div>
 
+<div style="margin-top:10px"></div>
+
 <div style="text-align: justify">Hi,</div><br>
 <div style="text-align: justify">Welcome to my <strong>portfolio!</strong> As the first in my family to attend college, I am determined to build a dynamic and impactful career. Driven by curiosity, I have always seen data as a powerful tool for turning questions into actionable insights but it was not until college that I started to get more formal education on it. Pairing my interest in data with cloud computing has opened exciting new directions for exploring and working with data, and I am eager to dive deeper into this innovative field. This page highlights my growth through <strong>college projects</strong> and <strong>personal initiatives</strong>. You’ll also find <strong>certifications</strong> I’ve earned, along with insights into the skills and knowledge behind each achievement. Thanks for visiting!</div><br>
-
+<a id="contact"></a>
 <div style="text-align: justify">Got any question, want to connect? Reach out by:</div>
 
 * Linkedln: <a href="https://www.linkedin.com/in/bzamoram/">Bryan Zamora Montero</a> 
 * Email: <bzamoramontero35@gmail.com>
+
+---
 
 ## Contents
 
@@ -26,7 +31,7 @@
   * [Harry Potter (API) ETL Project](#harry-potter-api-etl-project)
   * [Fargo-Moorhead Housing Pricing](#fargo-moorhead-housing-pricing)
   * [Predicting Casualties in Traffic Crashes of New York City](#predicting-casualties-in-traffic-crashes-of-new-york-city)
-* [GIS Projects](#assessing-oilgas-wells-in-north-dakota-us)
+* [GIS Projects](#gis-projects)
   * [Assessing Oil/Gas Wells in ND, USA](#assessing-oilgas-wells-in-north-dakota-us)
 * [Certifications](#certifications)
   * [Ready for SAFE®](#ready-for-safe)
