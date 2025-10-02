@@ -1,16 +1,26 @@
 
 # <center> Portfolio </center>
 
+<link rel="stylesheet" href="custom.css">
+
+<div class="sticky-header">
+  <p align="center"><strong></strong></p>
+  <div align="center">
+    <a href="pdf/">Resume</a> |
+    <a href="https://www.linkedin.com/in/bzamoram/">LinkedIn</a> |
+    <a href="https://github.com/bzamoram">GitHub</a>
+  </div>
+</div>
 
 <div style="text-align: justify">Hi,</div><br>
-<div style="text-align: justify">Welcome to my <strong>portfolio!</strong>. As the first in my family to attend college, I am determined to build a dynamic and impactful career. My interest in data began with a natural tendency to seek insights and make informed decisions through previous information, but it truly came alive when I started taking data courses at Concordia College. Discovering the power of cloud computing has opened exciting new directions for exploring and working with data, and I am eager to dive deeper into this innovative field. This page highlights my growth through <strong>college projects</strong> and <strong>personal initiatives</strong>. You’ll also find <strong>certifications</strong> I’ve earned, along with insights into the skills and knowledge behind each achievement. Thanks for visiting!</div><br>
+<div style="text-align: justify">Welcome to my <strong>portfolio!</strong> As the first in my family to attend college, I am determined to build a dynamic and impactful career. Driven by curiosity, I have always seen data as a powerful tool for turning questions into actionable insights but it was not until college that I started to get more formal education on it. Pairing my interest in data with cloud computing has opened exciting new directions for exploring and working with data, and I am eager to dive deeper into this innovative field. This page highlights my growth through <strong>college projects</strong> and <strong>personal initiatives</strong>. You’ll also find <strong>certifications</strong> I’ve earned, along with insights into the skills and knowledge behind each achievement. Thanks for visiting!</div><br>
 
 <div style="text-align: justify">Got any question, want to connect? Reach out by:</div>
 
 * Linkedln: <a href="https://www.linkedin.com/in/bzamoram/">Bryan Zamora Montero</a> 
 * Email: <bzamoramontero35@gmail.com>
 
-## Table of Contents
+## Contents
 
 * [Data Projects](#data-projects)
   * [Harry Potter (API) ETL Project](#harry-potter-api-etl-project)
