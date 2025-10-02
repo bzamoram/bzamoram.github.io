@@ -46,7 +46,7 @@
 <img src="images/ETL-workflow.png?raw=true"/>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/Harry-Potter-API-Exploration)
-<div style="text-align: justify">I explored <strong>ETL processes</strong> with this Harry Potter-themed project. Using the public Harry Potter API, I dove into the steps of Extract-Transform-Load (ETL) to turn raw API data into meaningful information stored in a MySQL database.</div>
+<div style="text-align: justify">I explored <strong>ETL processes</strong> with this Harry Potter-themed project. Using the public Harry Potter API, I dove into the steps of Extract-Transform-Load (ETL) to turn raw <strong>API</strong> data into meaningful information stored in a <strong>MySQL database.</strong></div>
 <br>
 
 [![API Integration](https://img.shields.io/badge/API%20Integration-E33817)]()
