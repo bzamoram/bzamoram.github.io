@@ -29,6 +29,7 @@
 ## Contents
 
 * [Data Projects](#data-projects)
+  * [Twin Cities MN Airbnb Data Engineering Project](#twin-cities-mn-airbnb-data-engineering-project)
   * [Harry Potter (API) ETL Project](#harry-potter-api-etl-project)
   * [Fargo-Moorhead Housing Pricing](#fargo-moorhead-housing-pricing)
   * [Predicting Casualties in Traffic Crashes of New York City](#predicting-casualties-in-traffic-crashes-of-new-york-city)
