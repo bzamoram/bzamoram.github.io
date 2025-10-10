@@ -41,6 +41,21 @@
 
 ---
 ## Data Projects
+### Twin-Cities-MN-Airbnb-Data-Engineering-Project
+
+<img src="images/project-workflow.png?raw=true"/>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/Twin-Cities-MN-Airbnb-Data-Engineering-Project)
+<div style="text-align: justify">This project demonstrates a full data engineering workflow using real-world Airbnb listings and reviews from the Twin Cities MSA, sourced from Inside Airbnb [https://insideairbnb.com/twin-cities-msa/]. The original dataset was provided in a relational (SQL) format. I performed extensive <strong>data cleaning</strong> and <strong>transformation</strong> to restructure the data for a <strong>NoSQL environment</strong>, optimizing it for flexible queries and scalable storage. The final dataset was loaded into <strong>AWS DynamoDB</strong>, showcasing the migration from <strong>SQL to NoSQL</strong> and enabling efficient access to complex, nested listing and review data. This project highlights skills in <strong>data wrangling, schema design</strong>, and <strong>cloud database integration.</strong></div>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-ETL%20Pipeline-4EAA25)
+
+---
+
 ### Harry Potter (API) ETL Project
 
 <img src="images/ETL-workflow.png?raw=true"/>
