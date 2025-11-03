@@ -32,6 +32,7 @@
   * [Twin Cities MN Airbnb Data Engineering Project](#twin-cities-mn-airbnb-data-engineering-project)
   * [Harry Potter (API) ETL Project](#harry-potter-api-etl-project)
   * [Fargo-Moorhead Housing Pricing](#fargo-moorhead-housing-pricing)
+  * [Forecasting Brazil’s Freshwater Resources with Predictive Modeling](#forecasting-brazils-freshwater-resources-with-predictive-modeling)
   * [Predicting Casualties in Traffic Crashes of New York City](#predicting-casualties-in-traffic-crashes-of-new-york-city)
 * [GIS Projects](#gis-projects)
   * [Assessing Oil/Gas Wells in ND, USA](#assessing-oilgas-wells-in-north-dakota-us)
@@ -78,6 +79,17 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/Fargo_Moorhead_Housing_Pricing)
 
 <div style="text-align: justify">I performed a comprehensive Fargo-Moorhead Housing Pricing Tool using real state data.</div>
+<br>
+
+---
+
+### Forecasting Brazil’s Freshwater Resources with Predictive Modeling
+
+<img src="images/brazil_water_forecast.png?raw=true"/>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/Forecasting-Brazils-Freshwater-Resources-with-Predictive-Modeling-)
+
+<div style="text-align: justify">Renewable freshwater resources is a delicate resource that is most likely to reduce over time, and that even when there are measurements to stop the number of cattles or mitigations for water withdrawals, the numbers of renewable freshwater resources will not reflect a huge change since the scale in which this time series in presented is quite big. Besides, for the next 10 years is expected to decrease, which is expected.</div>
 <br>
 
 ---
