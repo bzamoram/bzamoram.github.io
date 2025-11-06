@@ -101,6 +101,27 @@
 ---
 
 ## Certifications
+### dbt Fundamentals credential
+
+<iframe
+  src="https://credentials.getdbt.com/embed/b330af26-de47-41b6-a8a0-f82d3a9095e0"
+  width="800"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
+<div style="text-align: justify">Issued by dbt Labs on November 5th, 2025.</div>
+<div style="text-align: justify">Earning the dbt Fundamentals credential reflects my proven understanding of core concepts in data transformation using dbt. Through completing the official dbt Fundamentals v2 course and its assessment, I have demonstrated hands-on proficiency in building and managing dbt models, configuring data sources, implementing data tests, documenting projects, and deploying analytics workflows. This credential highlights my ability to apply best practices in dbt to ensure reliable, scalable, and well-documented data pipelines.</div>
+<br>
+
+[![dbt Models](https://img.shields.io/badge/dbt%20Models-FF7043)]()
+[![Data Testing](https://img.shields.io/badge/Data%20Testing-4CAF50)]()
+[![Documentation](https://img.shields.io/badge/Documentation-42A5F5)]()
+[![Deployment](https://img.shields.io/badge/Deployment-9C27B0)]()
+
+---
+
 ### Ready for SAFE®
 
 <img src="images/ready-for-safe.png?raw=true"/>
