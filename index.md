@@ -131,6 +131,21 @@
 ---
 
 ## Certifications
+### dbt Fundamentals credential
+
+![dbt Fundamentals Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/165767671)
+
+<div style="text-align: justify">Issued by dbt Labs on November 5th, 2025.</div>
+<div style="text-align: justify">Through completing the official dbt Fundamentals v2 course and its assessment, I have demonstrated hands-on proficiency in building and managing dbt models, configuring data sources, implementing data tests, documenting projects, and deploying analytics workflows. This credential highlights my ability to apply best practices in dbt to ensure reliable, scalable, and well-documented data pipelines.</div>
+<br>
+
+[![dbt Models](https://img.shields.io/badge/dbt%20Models-FF7043)]()
+[![Data Testing](https://img.shields.io/badge/Data%20Testing-4CAF50)]()
+[![Documentation](https://img.shields.io/badge/Documentation-42A5F5)]()
+[![Deployment](https://img.shields.io/badge/Deployment-9C27B0)]()
+
+---
+
 ### Ready for SAFE®
 
 <img src="images/ready-for-safe.png?raw=true"/>
