@@ -43,6 +43,25 @@
 
 ---
 ## Data Projects
+### Greenhouse Gas Emissions Dashboard
+
+<img src="images/GHG_Dashboard.gif?raw=true"/>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/GHG-Emissions-Dashboard-Concordia-College.git)
+<div style="text-align: justify">Developed an interactive Power BI dashboard tracking campus greenhouse gas emissions and energy consumption patterns.
+<br>
+Utilized DAX calculations and Power Query transformations to analyze sustainability metrics across Scope 1, 2, and 3 emissions. Visualized multi-year trends supporting institutional carbon reduction goals and climate action reporting compliance.</div>
+<br>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F7C800?logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-0B6A0B?logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1F77B4?logo=tableau&logoColor=white)
+![Sustainability Reporting](https://img.shields.io/badge/Sustainability%20Reporting-2E7D32?logo=googleearth&logoColor=white)
+
+---
+
 ### Twin-Cities-MN-Airbnb-Data-Engineering-Project
 
 <img src="images/project-workflow.png?raw=true"/>
