@@ -37,7 +37,9 @@
   * [Predicting Casualties in Traffic Crashes of New York City](#predicting-casualties-in-traffic-crashes-of-new-york-city)
 * [GIS Projects](#gis-projects)
   * [Assessing Oil/Gas Wells in ND, USA](#assessing-oilgas-wells-in-north-dakota-us)
+  * [Differences in Green Spaces within Communities in the Fargo Area](#differences-in-green-spaces-within-communities-in-the-fargo-area)
 * [Certifications](#certifications)
+  * [dbt Fundamentals](#dbt-fundamentals-credential)
   * [Ready for SAFE®](#ready-for-safe)
   * [AWS QuickSight Basics](#aws-quicksight-basics)
   * [Intro to Web APIs](#intro-to-web-apis)
@@ -127,6 +129,25 @@
 ### Assessing Oil/Gas Wells in North Dakota, US
 
 <iframe src="https://arcg.is/0XLrWr1" width="100%" height="500px" frameborder="0" allow="geolocation"></iframe> 
+
+---
+
+### Differences in Green Spaces within Communities in the Fargo Area
+
+<img src="images/redlining-poster.png?raw=true"/>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/NYC_Traffic_Crashes_Casualties)
+[![View Paper](https://img.shields.io/badge/View_Paper-red?logo=Book)](https://github.com/bzamoram/NYC_Traffic_Crashes_Casualties)
+
+<div style="text-align: justify">Text working as description</div>
+<br>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F7C800?logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-0B6A0B?logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1F77B4?logo=tableau&logoColor=white)
+![Sustainability Reporting](https://img.shields.io/badge/Sustainability%20Reporting-2E7D32?logo=googleearth&logoColor=white)
 
 ---
 
