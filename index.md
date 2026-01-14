@@ -136,18 +136,19 @@
 
 <img src="images/redlining-poster.png?raw=true"/>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/NYC_Traffic_Crashes_Casualties)
-[![View Paper](https://img.shields.io/badge/View_Paper-red?logo=Book)](https://github.com/bzamoram/NYC_Traffic_Crashes_Casualties)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/Differences-in-Green-Spaces-within-Communities-in-the-Fargo-Area.git)
+[![View Paper](https://img.shields.io/badge/View_Paper-red?logo=Book)](https://github.com/bzamoram/Differences-in-Green-Spaces-within-Communities-in-the-Fargo-Area/blob/main/Cella_Pambu_Zamora_Final_Version.pdf)
 
-<div style="text-align: justify">Text working as description</div>
+<div style="text-align: justify">Conducted spatial analysis in ArcGIS Pro examining environmental justice in Fargo, ND by integrating HOLC redlining maps, Landsat 8-9 thermal imagery, NLCD tree canopy data, and CDC Heat and Health Index. Performed geoprocessing workflows including spatial joins, zonal statistics, and overlay analysis across ZIP codes and historically marginalized neighborhoods to quantify urban heat disparities.
+</div>
 <br>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F7C800?logo=powerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-0B6A0B?logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1F77B4?logo=tableau&logoColor=white)
-![Sustainability Reporting](https://img.shields.io/badge/Sustainability%20Reporting-2E7D32?logo=googleearth&logoColor=white)
+![Spatial Analysis](https://img.shields.io/badge/Spatial%20Analysis-00897B?logo=googleearth&logoColor=white)
+![Geoprocessing](https://img.shields.io/badge/Geoprocessing-2C7AB0?logo=arcgis&logoColor=white)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-0078D4?logo=microsoftazure&logoColor=white)
+![Zonal Statistics](https://img.shields.io/badge/Zonal%20Statistics-6A1B9A?logo=databricks&logoColor=white)
+![Overlay Analysis](https://img.shields.io/badge/Overlay%20Analysis-E37400?logo=qgis&logoColor=white)
+![Geospatial Data Integration](https://img.shields.io/badge/Geospatial%20Data%20Integration-217346?logo=googleearthengine&logoColor=white)
 
 ---
 
