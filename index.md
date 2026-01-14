@@ -29,6 +29,7 @@
 ## Contents
 
 * [Data Projects](#data-projects)
+  * [Greenhouse Gas Emissions Dashboard](#greenhouse-gas-emissions-dashboard)
   * [Twin Cities MN Airbnb Data Engineering Project](#twin-cities-mn-airbnb-data-engineering-project)
   * [Harry Potter (API) ETL Project](#harry-potter-api-etl-project)
   * [Fargo-Moorhead Housing Pricing](#fargo-moorhead-housing-pricing)
@@ -48,9 +49,7 @@
 <img src="images/GHG_Dashboard.gif?raw=true"/>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bzamoram/GHG-Emissions-Dashboard-Concordia-College.git)
-<div style="text-align: justify">Developed an interactive Power BI dashboard tracking campus greenhouse gas emissions and energy consumption patterns.
-<br>
-Utilized DAX calculations and Power Query transformations to analyze sustainability metrics across Scope 1, 2, and 3 emissions. Visualized multi-year trends supporting institutional carbon reduction goals and climate action reporting compliance.</div>
+<div style="text-align: justify">Developed an interactive <strong>Power BI</strong> dashboard tracking campus greenhouse gas emissions and energy consumption patterns. Utilized <strong>DAX calculations</strong> and <strong>Power Query</strong> transformations to analyze sustainability metrics across Scope 1, 2, and 3 emissions. Visualized multi-year trends supporting institutional carbon reduction goals and climate action reporting compliance.</div>
 <br>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F7C800?logo=powerbi&logoColor=white)
